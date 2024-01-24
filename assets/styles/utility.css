@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* utility classes */
+
+
+/* flex classes start */
+
+.d-flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.align-center{
+    align-items: center;
+}
+.align-between{
+    align-items: space-between;
+}
+.align-around{
+    align-items: space-around;
+}
+.align-evenly{
+    align-items: space-evenly;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.flex-column{
+    flex-direction: column;
+}
+.flex-row{
+    flex-direction: row;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+
+/* flex classes end */
+
+
+/* margin classes start */
+.m-1{
+    margin: 5px;
+}
+.m-2{
+    margin: 10px;
+}
+.m-3{
+    margin: 15px;
+}
+.m-4{
+    margin: 20px;
+}
+.mt-1{
+    margin-top: 5px;
+}
+.mt-2{
+    margin-top: 10px;
+}
+.mt-3{
+    margin-top: 15px;
+}
+.mt-4{
+    margin-top: 20px;
+}
+.mt-5{
+    margin-top: 50px;
+}
+.mt-6{
+    margin-top: 100px;
+}
+.mb-1{
+    margin-bottom: 10px;
+}
+.mb-2{
+    margin-bottom: 50px;
+}
+.mb-3{
+    margin-bottom: 100px;
+}
+.mb-4{
+    margin-bottom: 150px;
+}
+.mb-5{
+    margin-bottom: 20px;
+}
+.ml-1{
+    margin-left: 5px;
+}
+.ml-2{
+    margin-left: 10px;
+}
+.ml-3{
+    margin-left: 15px;
+}
+.ml-4{
+    margin-left: 20px;
+}
+.ml-5{
+    margin-left: 40px;
+}
+.ml-6{
+    margin-left: 60px;
+}
+.mr-1{
+    margin-right: 5px;
+}
+.mr-2{
+    margin-right: 10px;
+}
+.mr-3{
+    margin-right: 15px;
+}
+.mr-4{
+    margin-right: 20px;
+}
+.mr-5{
+    margin-right: 40px;
+}
+.mr-6{
+    margin-right: 60px;
+}
+
+/* margin classes end */
+
+.bg-light{
+    background-color: #ffffff;
+}
+.bg-dark{
+    background-color: #000000;
+}
+.bg-grey{
+    background-color: #0f0f0f;
+}
+
+.center{
+    text-align: center;
+}
+.rounded{
+    border-radius: 30px;
+}
+.rounded-sm{
+    border-radius: 5px;
+}
+.rounded-md{
+    border-radius: 10px;
+}
+.rounded-lr{
+    border-radius: 20px;
+}
+.text-dark{
+    color: #000000;
+}
+.text-light{
+    color: #ffffff;
+}
+.text-grey{
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.transparent{
+    background-color: transparent;
+}
+.text-decor{
+    text-decoration: none;
+}
