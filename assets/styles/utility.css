@@ -103,6 +103,9 @@
 .mb-5{
     margin-bottom: 20px;
 }
+.mb-6{
+    margin-top: 100px;
+}
 .ml-1{
     margin-left: 5px;
 }
@@ -121,6 +124,9 @@
 .ml-6{
     margin-left: 60px;
 }
+.ml-7{
+    margin-left: 90px;
+}
 .mr-1{
     margin-right: 5px;
 }
@@ -138,6 +144,9 @@
 }
 .mr-6{
     margin-right: 60px;
+}
+.mr-7{
+    margin-left: 90px;
 }
 
 /* margin classes end */
